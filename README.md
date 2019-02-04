@@ -1,0 +1,3 @@
+# SplashScreen
+
+HOW TO CREATE A SPLASH SCREEN
